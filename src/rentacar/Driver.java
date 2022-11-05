@@ -1,6 +1,8 @@
 
 /*Name: Lucas dos Santos Barbosa
 /*Sudent Number: 2021337
+ *Enio Kelsio Vieira Magalhaes
+ *Student Number: 2021221
  *Github link: https://github.com/Barxl/RentACar
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
